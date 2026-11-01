@@ -1,0 +1,30 @@
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.AssemblyInfo.cs
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.exe
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.deps.json
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.runtimeconfig.json
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.dll
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.pdb
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.dll
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\refint\GuiaEjercitacion2.dll
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.pdb
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.genruntimeconfig.cache
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\ref\GuiaEjercitacion2.dll
+C:\Users\User\Pictures\Javier Anibal Guia Programacion\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjer.3EBF8559.Up2Date
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.exe
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.deps.json
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.runtimeconfig.json
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.dll
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net10.0\GuiaEjercitacion2.pdb
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.AssemblyInfo.cs
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.dll
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\refint\GuiaEjercitacion2.dll
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.pdb
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjercitacion2.genruntimeconfig.cache
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\ref\GuiaEjercitacion2.dll
+C:\Users\User\Desktop\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net10.0\GuiaEjer.3EBF8559.Up2Date
